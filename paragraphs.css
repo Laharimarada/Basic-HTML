@@ -1,0 +1,13 @@
+p{
+    border:1px solid red;
+    width:20%;
+    display:inlin-block;
+    padding:20px;
+    margin:20px;
+    border-radius:20px;
+    text-align:justify;
+    font-family:comic sans-serif;
+    color:white;
+    background:linear-gradient(45 deg,red,black);
+
+}
